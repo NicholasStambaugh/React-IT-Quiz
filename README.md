@@ -1,3 +1,7 @@
+# Overview
+
+This is a quiz created for MiCareerQuest to showcase front-end web design to high school aged students.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
