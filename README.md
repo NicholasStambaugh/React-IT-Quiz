@@ -1,6 +1,6 @@
 # Overview
 
-This is a quiz created for MiCareerQuest to showcase front-end web design to high school aged students.
+This is a quiz created for MiCareerQuest to showcase React and front-end web design to high school aged students.
 
 # Getting Started with Create React App
 
