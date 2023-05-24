@@ -1,0 +1,112 @@
+[
+    {
+        "id": "01",
+        "question" : "Which technology is used for communication between devices over short distances?",
+        "options": [
+            "Bluetooth",
+            "Ethernet",
+            "IPhone",
+            "All of the above"
+        ],
+        "answer": "Bluetooth"
+    },
+    {
+        "id": "02",
+        "question" : "What does the term phishing mean in IT?",
+        "options": [
+            "Sending spam emails",
+            "Creating strong passwords",
+            "Attempting to steal sensitive information",
+            "Catching a salmon down by the lake"
+        ],
+        "answer": "Attempting to steal sensitive information"
+    },
+    {
+        "id": "03",
+        "question" : "Which software is commonly used for creating spreadsheets?",
+        "options": [
+            "Powerpoint",
+            "Excel",
+            "Photoshop",
+            "Word"
+        ],
+        "answer": "Excel"
+    },
+    {
+        "id": "04",
+        "question" : "Which type of file format is commonly used for images?",
+        "options": [
+            "JPG",
+            "DOC",
+            "MP3",
+            "PDF"
+        ],
+        "answer": "JPG"
+    },
+    {
+        "id": "05",
+        "question" : "What is an example of an Operating System? (OS)",
+        "options": [
+            "Photoshop",
+            "Microsoft Office",
+            "Google Chrome",
+            "Linux"
+        ],
+        "answer": "Linux"
+    },
+    {
+        "id": "06",
+        "question" : "Which answer is a programming language?",
+        "options": [
+            "Excel",
+            "Slither",
+            "Python",
+            "Server"
+        ],
+        "answer": "Python"
+    },
+    {
+        "id": "07",
+        "question" : "Who is known for creating and adopting personal home computers?",
+        "options": [
+            "Steve Jobs",
+            "Tom Brady",
+            "Kanye West",
+            "Both B and C"
+        ],
+        "answer": "Steve Jobs"
+    },
+    {
+        "id": "08",
+        "question" : "What does A.I. stand for?",
+        "options": [
+            "Art of Intel",
+            "Applicable Interface",
+            "Artificial Intelligence",
+            "All of the above"
+        ],
+        "answer": "Artificial Intelligence"
+    },
+    {
+        "id": "09",
+        "question" : "What city in the United States is known for it's IT community?",
+        "options": [
+            "Chicago",
+            "Washington DC",
+            "San Fransisco",
+            "None of the above."
+        ],
+        "answer": "San Fransisco"
+    },
+    {
+        "id": "10",
+        "question" : "Are you interested in a career in IT?",
+        "options": [
+            "No",
+            "Yes",
+            "Maybe",
+            "Never in a million years!"
+        ],
+        "answer": "Yes"
+    }
+]
